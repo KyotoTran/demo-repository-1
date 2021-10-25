@@ -1,4 +1,4 @@
-# bullshjet program
+# Bullshjet program
 
 yearOfBirth = int(input('Type your year of birth: '))
 age = 2021 - yearOfBirth
@@ -8,4 +8,4 @@ if age < 18:
 else:
     print("Đã đủ tuổi đi tù")
 
-# code by thanhmoizhandsome
+# Code by thanhmoizhandsome
