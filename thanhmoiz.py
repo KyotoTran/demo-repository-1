@@ -5,3 +5,5 @@ if age < 18:
     print("Chưa đủ tuổi đi tù")
 else:
     print("Đã đủ tuổi đi tù")
+
+# code by thanhmoizdeptrai
